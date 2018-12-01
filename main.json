@@ -1,0 +1,54 @@
+{
+	"profile":{
+		"img":"kajal.jpg",
+		"name":"amulya",
+		"roll":"16NN1A1212",
+		"institute":"vignan",
+		"place":"guntur"
+	},
+	"career":{
+		"info":"Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.</p>"
+	},
+	"educational":[
+		{
+			"degree":"Btech",
+			"institution":"vignan",
+			"yop":"2020"
+		},
+		{
+			"degree":"intermediate",
+			"institution":"vignan",
+			"yop":"2016"
+		},
+		{
+			"degree":"s.s.c",
+			"institution":"nagarjuna",
+			"yop":"2014"
+		}
+	],
+	"languages":[
+		{
+			"lang":"telugu"
+		},
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"hindi"
+		}
+	],
+	"skills":[
+		{"title":"platforms",
+			"content":"windows,linus"
+		},
+		{
+			"title":"programming languages",
+			"content":"c,c++,java"
+
+		},
+		{
+			"title":"database",
+			"content":"mysql"
+		}
+	]
+}
